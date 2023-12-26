@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "station_id": 213688169, "name": "Benjamin Godard - Victor Hugo", "lat": 48.865983, "lon": 2.275725, "capacity": 35, "stationCode": "16107", "rental_methods": null }, "geometry": { "type": "Point", "coordinates": [ 2.275725, 48.865983 ] } }
+]
+}
